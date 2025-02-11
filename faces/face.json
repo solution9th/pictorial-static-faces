@@ -5,7 +5,7 @@
         {
             "name_en": "Reset to initial",
             "name_zh": "恢复初始",
-            "blurb": "assets/resource/poses/face1.jpg",
+            "blurb": "assets/resource/faces/face1.jpg",
             "values": {
                 "head": {
                     "rotate_pitch": 0,
@@ -30,7 +30,7 @@
         {
             "name_en": "happy",
             "name_zh": "高兴",
-            "blurb": "assets/resource/poses/face2.jpg",
+            "blurb": "assets/resource/faces/face2.jpg",
             "values": {
                 "head": {
                     "rotate_pitch": 0,
@@ -55,7 +55,7 @@
         {
             "name_en": "blink",
             "name_zh": "眨眼",
-            "blurb": "assets/resource/poses/face3.jpg",
+            "blurb": "assets/resource/faces/face3.jpg",
             "values": {
                 "head": {
                     "rotate_pitch": 0,
@@ -80,7 +80,7 @@
         {
             "name_en": "surprised",
             "name_zh": "惊讶",
-            "blurb": "assets/resource/poses/face4.jpg",
+            "blurb": "assets/resource/faces/face4.jpg",
             "values": {
                 "head": {
                     "rotate_pitch": 0,
@@ -105,7 +105,7 @@
         {
             "name_en": "sleepy",
             "name_zh": "困顿",
-            "blurb": "assets/resource/poses/face5.jpg",
+            "blurb": "assets/resource/faces/face5.jpg",
             "values": {
                 "head": {
                     "rotate_pitch": 0,
@@ -130,7 +130,7 @@
         {
             "name_en": "sad",
             "name_zh": "难过",
-            "blurb": "assets/resource/poses/face6.jpg",
+            "blurb": "assets/resource/faces/face6.jpg",
             "values": {
                 "head": {
                     "rotate_pitch": 0,
@@ -155,7 +155,7 @@
         {
             "name_en": "look_aside",
             "name_zh": "看向一边",
-            "blurb": "assets/resource/poses/face7.jpg",
+            "blurb": "assets/resource/faces/face7.jpg",
             "values": {
                 "head": {
                     "rotate_pitch": 10,

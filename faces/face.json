@@ -1,182 +1,77 @@
 [
-    {
-      "title": "Preset Expression",
-      "items": [
-        {
-            "name_en": "Reset to initial",
-            "name_zh": "恢复初始",
-            "blurb": "assets/resource/faces/face1.jpg",
-            "values": {
-                "head": {
-                    "rotate_pitch": 0,
-                    "rotate_yaw": 0,
-                    "rotate_roll": 0
-                },
-                "mouth": {
-                    "smile": 0,
-                    "aaa": 0,
-                    "eee": 0,
-                    "woo": 0
-                },
-                "eyes": {
-                    "blink": 0,
-                    "pupil_x": 0,
-                    "pupil_y": 0,
-                    "eyebrow": 0,
-                    "wink": 0
-                }
-            }
-        },
-        {
-            "name_en": "happy",
-            "name_zh": "高兴",
-            "blurb": "assets/resource/faces/face2.jpg",
-            "values": {
-                "head": {
-                    "rotate_pitch": 0,
-                    "rotate_yaw": 0,
-                    "rotate_roll": 0
-                },
-                "mouth": {
-                    "smile": 1.3,
-                    "aaa": 12,
-                    "eee": 0,
-                    "woo": 0
-                },
-                "eyes": {
-                    "blink": 0,
-                    "pupil_x": 0,
-                    "pupil_y": 0,
-                    "eyebrow": 0,
-                    "wink": 0
-                }
-            }
-        },
-        {
-            "name_en": "blink",
-            "name_zh": "眨眼",
-            "blurb": "assets/resource/faces/face3.jpg",
-            "values": {
-                "head": {
-                    "rotate_pitch": 0,
-                    "rotate_yaw": 0,
-                    "rotate_roll": 0
-                },
-                "mouth": {
-                    "smile": 1.3,
-                    "aaa": 12,
-                    "eee": 0,
-                    "woo": 0
-                },
-                "eyes": {
-                    "blink": 0,
-                    "pupil_x": 0,
-                    "pupil_y": 0,
-                    "eyebrow": 0,
-                    "wink": 24
-                }
-            }
-        },
-        {
-            "name_en": "surprised",
-            "name_zh": "惊讶",
-            "blurb": "assets/resource/faces/face4.jpg",
-            "values": {
-                "head": {
-                    "rotate_pitch": 0,
-                    "rotate_yaw": 0,
-                    "rotate_roll": 0
-                },
-                "mouth": {
-                    "smile": 0,
-                    "aaa": 120,
-                    "eee": 0,
-                    "woo": 0
-                },
-                "eyes": {
-                    "blink": 5,
-                    "pupil_x": 0,
-                    "pupil_y": 0,
-                    "eyebrow": 10,
-                    "wink": 0
-                }
-            }
-        },
-        {
-            "name_en": "sleepy",
-            "name_zh": "困顿",
-            "blurb": "assets/resource/faces/face5.jpg",
-            "values": {
-                "head": {
-                    "rotate_pitch": 0,
-                    "rotate_yaw": 0,
-                    "rotate_roll": 0
-                },
-                "mouth": {
-                    "smile": 0,
-                    "aaa": 0,
-                    "eee": 0,
-                    "woo": 0
-                },
-                "eyes": {
-                    "blink": -15,
-                    "pupil_x": 0,
-                    "pupil_y": 0,
-                    "eyebrow": -10,
-                    "wink": 0
-                }
-            }
-        },
-        {
-            "name_en": "sad",
-            "name_zh": "难过",
-            "blurb": "assets/resource/faces/face6.jpg",
-            "values": {
-                "head": {
-                    "rotate_pitch": 0,
-                    "rotate_yaw": 0,
-                    "rotate_roll": 0
-                },
-                "mouth": {
-                    "smile": -0.3,
-                    "aaa": -30,
-                    "eee": 0,
-                    "woo": 0
-                },
-                "eyes": {
-                    "blink": 0,
-                    "pupil_x": 0,
-                    "pupil_y": 0,
-                    "eyebrow": -6,
-                    "wink": 0
-                }
-            }
-        },
-        {
-            "name_en": "look_aside",
-            "name_zh": "看向一边",
-            "blurb": "assets/resource/faces/face7.jpg",
-            "values": {
-                "head": {
-                    "rotate_pitch": 10,
-                    "rotate_yaw": 0,
-                    "rotate_roll": 0
-                },
-                "mouth": {
-                    "smile": 0,
-                    "aaa": 0,
-                    "eee": 0,
-                    "woo": 0
-                },
-                "eyes": {
-                    "blink": 0,
-                    "pupil_x": 15,
-                    "pupil_y": 0,
-                    "eyebrow": 0,
-                    "wink": 0
-                }
-            }
-        }
-      ]
-    }
+  {
+    "title": "Preset Expression",
+    "items": [
+      {
+          "name_en": "Reset to initial",
+          "name_zh": "恢复初始",
+          "blurb": "assets/resource/faces/face1.jpg",
+          "values": {
+            "head": {"rotate_pitch": 0, "rotate_yaw": 0, "rotate_roll": 0}, 
+            "mouth": {"smile": 0.5, "aaa": -30, "eee": 8, "woo": 0}, 
+            "eyes": {"blink": 5, "pupil_x": 0, "pupil_y": 0, "eyebrow": 2, "wink": 25}
+          }
+      },
+      {
+          "name_en": "happy",
+          "name_zh": "高兴",
+          "blurb": "assets/resource/faces/face2.jpg",
+          "values": {
+            "head": {"rotate_pitch": 0, "rotate_yaw": 0, "rotate_roll": 0}, 
+            "mouth": {"smile": 1.0205555555555557, "aaa": 45, "eee": 14, "woo": 0}, 
+            "eyes": {"blink": 5, "pupil_x": 0, "pupil_y": 0, "eyebrow": 10, "wink": 25}
+          }
+      },
+      {
+          "name_en": "blink",
+          "name_zh": "眨眼",
+          "blurb": "assets/resource/faces/face3.jpg",
+          "values": {
+            "head": {"rotate_pitch": 0, "rotate_yaw": 0, "rotate_roll": 0}, 
+            "mouth": {"smile": 1.0205555555555557, "aaa": 45, "eee": 14, "woo": 0}, 
+            "eyes": {"blink": -15, "pupil_x": 0, "pupil_y": 0, "eyebrow": 4, "wink": 25}
+          }
+      },
+      {
+          "name_en": "surprised",
+          "name_zh": "惊讶",
+          "blurb": "assets/resource/faces/face4.jpg",
+          "values": {
+            "head": {"rotate_pitch": 0, "rotate_yaw": 0, "rotate_roll": 0}, 
+            "mouth": {"smile": 0.5047916666666667, "aaa": 120, "eee": 15, "woo": 0}, 
+            "eyes": {"blink": 5, "pupil_x": 1, "pupil_y": -15, "eyebrow": -10, "wink": 25}
+          }
+      },
+      {
+          "name_en": "sleepy",
+          "name_zh": "困顿",
+          "blurb": "assets/resource/faces/face5.jpg",
+          "values": {
+            "head": {"rotate_pitch": 0, "rotate_yaw": 0, "rotate_roll": 0}, 
+            "mouth": {"smile": 0.4000000000000001, "aaa": -12, "eee": 15, "woo": 0}, 
+            "eyes": {"blink": -11, "pupil_x": 0, "pupil_y": 13, "eyebrow": 15, "wink": 25}
+          }
+      },
+      {
+          "name_en": "sad",
+          "name_zh": "难过",
+          "blurb": "assets/resource/faces/face6.jpg",
+          "values": {
+            "head": {"rotate_pitch": 0, "rotate_yaw": 0, "rotate_roll": 0}, 
+            "mouth": {"smile": 0.09333333333333332, "aaa": -6, "eee": 14, "woo": 0}, 
+            "eyes": {"blink": 0, "pupil_x": -1, "pupil_y": -15, "eyebrow": 5, "wink": 25}
+          }
+      },
+      {
+          "name_en": "look_aside",
+          "name_zh": "看向一边",
+          "blurb": "assets/resource/faces/face7.jpg",
+          "values": {
+            "head": {"rotate_pitch": 0, "rotate_yaw": 0, "rotate_roll": 0},
+            "mouth": {"smile": 0.9504861111111111, "aaa": -2, "eee": 14, "woo": 0}, 
+            "eyes": {"blink": 5, "pupil_x": -12, "pupil_y": -11, "eyebrow": 1, "wink": 25}
+          }
+      }
+    ]
+  }
 ]

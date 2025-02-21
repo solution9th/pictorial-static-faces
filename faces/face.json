@@ -29,7 +29,7 @@
           "values": {
             "head": {"rotate_pitch": 0, "rotate_yaw": 0, "rotate_roll": 0}, 
             "mouth": {"smile": 1.0205555555555557, "aaa": 45, "eee": 14, "woo": 0}, 
-            "eyes": {"blink": -15, "pupil_x": 0, "pupil_y": 0, "eyebrow": 4, "wink": 25}
+            "eyes": {"blink": 5, "pupil_x": 0, "pupil_y": 0, "eyebrow": 9, "wink": 0}
           }
       },
       {
@@ -49,7 +49,7 @@
           "values": {
             "head": {"rotate_pitch": 0, "rotate_yaw": 0, "rotate_roll": 0}, 
             "mouth": {"smile": 0.4000000000000001, "aaa": -12, "eee": 15, "woo": 0}, 
-            "eyes": {"blink": -11, "pupil_x": 0, "pupil_y": 13, "eyebrow": 15, "wink": 25}
+            "eyes": {"blink": -8, "pupil_x": -1, "pupil_y": 14, "eyebrow": 10, "wink": 25}
           }
       },
       {
@@ -59,7 +59,7 @@
           "values": {
             "head": {"rotate_pitch": 0, "rotate_yaw": 0, "rotate_roll": 0}, 
             "mouth": {"smile": 0.09333333333333332, "aaa": -6, "eee": 14, "woo": 0}, 
-            "eyes": {"blink": 0, "pupil_x": -1, "pupil_y": -15, "eyebrow": 5, "wink": 25}
+            "eyes": {"blink": 0, "pupil_x": -1, "pupil_y": 14, "eyebrow": 5, "wink": 25}
           }
       },
       {
